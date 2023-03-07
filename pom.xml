@@ -8,11 +8,11 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>dev.atul</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.demo</groupId>
+	<artifactId>booking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>booking</name>
+	<description>Demo project for booking</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
