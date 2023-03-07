@@ -1,0 +1,6 @@
+db.roles.insertMany([
+   { name: "ROLE_USER" },
+   { name: "ROLE_OWNER" },
+   { name: "ROLE_ADMIN" },
+   { name: "ROLE_SUPER_ADMIN"},
+])
